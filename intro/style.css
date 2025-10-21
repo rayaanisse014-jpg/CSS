@@ -1,0 +1,14 @@
+
+    *{
+        color:brown !important;
+        font-size: 30px;
+        text-transform: uppercase;
+    }
+
+    body{
+       background-color:beige;
+    } 
+h1{
+   text-align: center;
+
+}
