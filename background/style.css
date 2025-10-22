@@ -1,0 +1,8 @@
+body{
+    background-color: blueviolet;
+  background-image: url(https://static.vecteezy.com/system/resources/previews/044/593/527/non_2x/clear-blue-ocean-wave-abstract-background-photo.jpg);
+  background-repeat: no-repeat; 
+  background-position: top right;
+  background-size: cover;
+background-attachment: fixed;
+}
