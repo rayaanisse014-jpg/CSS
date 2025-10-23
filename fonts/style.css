@@ -1,0 +1,14 @@
+h1 {
+    /* font-size: 100px;
+    font-family:lobster;
+    font-style: italic;
+    font-weight: bold;
+    font-variant: small-caps;
+     */
+font:italic small-caps bold 100px lobster;
+}
+p {
+    line-height: 1.6;
+    word-spacing: 2px;
+    letter-spacing: 1px;
+}
