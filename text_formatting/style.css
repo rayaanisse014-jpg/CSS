@@ -1,0 +1,12 @@
+h1{
+    color: brown;
+    text-align: center;
+    text-decoration:overline;
+    text-transform: uppercase;
+    font-size: 70px;
+    text-shadow: 6px 8px 3px gray;
+
+}
+p {
+    text-indent: 50px;
+}
