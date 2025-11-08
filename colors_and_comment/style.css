@@ -7,7 +7,9 @@ h1 {
     /* rgb */
     /* color: rgb(125, 0, 125) ; */
     /* hexadecimal */
-    color: #ff0;
+    /* color: #ff0; */
+    /* HSL */
+    color: hsl(229, 84.6%, 43%);
 
 }
 body{
@@ -18,7 +20,7 @@ div{
    height: 200px;
    width: 200px;
    background-color: rgba(255, 0, 0, 0.4);
-   
+   /* opacity:0.8; */
 }
 
 
